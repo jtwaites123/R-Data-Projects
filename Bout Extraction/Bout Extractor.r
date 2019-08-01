@@ -8,8 +8,7 @@ pointfourer<-function(x, threshold=0.04)
 		{
 		return(threshold)
 		}
-}
-
+	}
 activityduration<-function(input,threshold, allowance)
   {
 
